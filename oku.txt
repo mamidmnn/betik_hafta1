@@ -1,0 +1,4 @@
+Ýsim listeleri üzerinde döngülerle çalýþma yapýldý; kelimeler parçalara ayrýlarak yazdýrýldý.
+Her kelimenin harf sayýsý hesaplandý ve sonuçlar listelendi.
+Kelimelerin son üç harfi ve uzunluklarý yazdýrýldý.
+Listelerin son elemanlarý dilimleme yöntemiyle elde edildi ve yazdýrýldý.
